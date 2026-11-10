@@ -52,7 +52,7 @@ You can receive auto-complete type suggestions from GitHub Copilot either by sta
    Drag `GitHub Copilot for Xcode` into the `Applications` folder:
 
    <p align="center">
-     <img alt="Screenshot of opened dmg" src="./Docs/Images/dmg-open.png" width="512" />
+     <img alt="Screenshot of opines dmg" src="./Docs/Images/dmg-open.png" width="512" />
    </p>
 
    Updates can be downloaded and installed by the app.
